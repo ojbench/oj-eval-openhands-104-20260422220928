@@ -1,3 +1,5 @@
+// Problem 104 - 采购
+// BFS from start and from home, sum distances via any shop (4). Prints -1 if unreachable.
 #include <iostream>
 #include <vector>
 #include <deque>
