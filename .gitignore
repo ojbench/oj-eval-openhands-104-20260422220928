@@ -1,3 +1,9 @@
 # CMake
 CMakeFiles/
 CMakeCache.txt
+
+# Binaries
+code
+
+# CMake generated
+cmake_install.cmake
