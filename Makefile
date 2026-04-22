@@ -7,7 +7,7 @@ BIN = code
 all: $(BIN)
 
 $(BIN): $(SRC)
-$(CXX) $(CXXFLAGS) -o $@ $(SRC) $(LDFLAGS)
+	$(CXX) $(CXXFLAGS) -o $@ $(SRC) $(LDFLAGS)
 
 clean:
-rm -f $(BIN) *.o
+	 rm -f $(BIN) *.o
