@@ -1,5 +1,5 @@
 CXX ?= g++
-CXXFLAGS ?= -std=gnu++11 -O2 -pipe -s
+CXXFLAGS ?= -std=gnu++11 -O2
 LDFLAGS ?=
 SRC = main.cpp
 BIN = code
